@@ -1,0 +1,420 @@
+/* 
+Theme Name: Responsive Child Theme
+Theme URI: http://cyberchimps.com/guide/child-theme-example/
+Description: Responsive Child Theme
+Template: responsive
+Version: 1.0.0
+Author: CyberChimps
+Author URI: https://cyberchimps.com/
+License: GNU General Public License
+License URI: license.txt
+
+*/
+
+/* =Start From Here
+-------------------------------------------------------------- */
+#container {
+  margin: 0;
+  max-width: 100%;
+  padding: 0;
+}
+#logo {
+  margin: 0 5%;
+  position: fixed;
+  width: 5%;
+  z-index: 999999;
+}
+.main-nav {
+  float: right;
+  margin: 1% 39%;
+  width: 65%;
+  position: fixed;
+  z-index: 999999;
+}
+.menu {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.menu .current_page_item a, .menu .current-menu-item a {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.menu a {
+  border-left: medium none;
+  color: #997840;
+  font-size: 17px;
+  padding: 0 17%;
+  text-shadow: none;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.menu a:hover {
+  background: none;
+  background-image: none;
+  color: #fff;
+  text-decoration: underline;
+}
+ul.menu > li:hover {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  color: #fff;
+}
+.tp-bannertimer {
+  z-index: 0;
+}
+.skip-container {
+  padding: 0;
+ }
+#header {
+  background: black none repeat scroll 0 0;
+  position: fixed;
+}
+#post-6 h1 {
+  display: none;
+}
+.home-part-2 {
+  background: white none repeat scroll 0 0;
+  margin-top: -10%!important;
+  position: sticky;
+  width: 95%;
+  z-index: 99999;
+  margin: 0 auto;
+}
+.text-2 {
+  text-align: center;
+}
+.text-2 h3 {
+  color: #997840;
+  font-family: initial;
+}
+.text-2 h2 {
+  color: #997840;
+  font-family: initial;
+  margin-top: -2%;
+  font-size: 25px;
+  margin-bottom: -3%;
+}
+.text-2 p {
+  font-family: initial;
+}
+.text-2 p {
+  font-family: initial;
+  font-size: 18px;
+  line-height: 1.3;
+}
+a img.alignnone {
+  margin: 0 0 0 0;
+  height: 250px;
+}
+#wrapper {
+  background: #f2f2f2 none repeat scroll 0 0;
+  padding: 0;
+  margin: 0;
+}
+.home-part-3 {
+  text-align: center;
+}
+.home-part-3 h5 {
+  font-size: 20px;
+  font-family: cursive;
+  font-weight: 500;
+}
+.home-part-4 {
+  background: white none repeat scroll 0 0;
+  margin-top: -8%;
+  padding: 9% 0;
+  text-align: center;
+}
+.home-part-4 h4 {
+  color: #B0976B;
+}
+.menu-list {
+  float: left;
+}
+.menu-list li {
+  list-style: outside none none;
+  text-align: left;
+}
+.menu-list h4 {
+  color: black;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.menu-list p {
+  font-size: 16px;
+  font-family: Tahoma;
+  margin-top: -2%;
+}
+.home-part-6 {
+  background: rgba(0, 0, 0, 0) url("http://localhost/vicky/wp-content/uploads/2015/10/cf-parallax.jpg") repeat scroll 0 0;
+}
+.home-part-6 h3 {
+  color: white;
+  font-size: 18px;
+}
+.home-part-6 p {
+  color: white;
+  font-size: 14px;
+}
+.ssss {
+ margin-bottom: 4%;
+margin-top: 5%;
+text-align: center;
+}
+.home-part-7 {
+  background: #997840;
+}
+.ttt {
+  color: white;
+  padding: 0 6%;
+  text-align: left;
+}
+.home-part-8 {
+  background: white none repeat scroll 0 0;
+  text-align: center;
+}
+.home-part-8 h5 {
+  color: #997840;
+  font-family: cursive;
+  font-size: 18px;
+  font-weight: 100;
+}
+.home-part-8 h3 {
+  color: #b0976b;
+  font-size: 30px;
+  font-family: Georgia;
+  margin-top: 0%;
+}
+.home-part-9 {
+  background: rgba(0, 0, 0, 0) url("http://localhost/vicky/wp-content/uploads/2015/11/cf-parallax-1.jpg") no-repeat scroll 0 0;
+}
+.home-part-9 {
+  color: white;
+  text-align: center;
+  margin-top: -2%;
+}
+.home-part-9 > h3 {
+  font-weight: 100;
+  font-size: 20px;
+  font-family: dashicons;
+  margin-top: 0;
+}
+.home-part-9 > h2 {
+  font-weight: 600; 
+}
+.iii img {
+  margin-top: 7%;
+}
+.bbb {
+  margin-top: 7%;
+  text-align: left;
+}
+.bbb span {
+  font-size: 20px;
+  font-weight: 600;
+}
+.bbb h4 {
+  border: 2px solid #fff;
+  font-size: 18px;
+  margin-top: 8% !important;
+  padding: 1%;
+  width: 30%;
+  text-align: center;
+}
+
+.bbb i {
+  opacity: 0;
+  float: left;
+  margin: -7.5% 26% !important;
+  transition: all 1s ease-in-out 0s;
+  position:unset;
+}
+.home-part-10 {
+  text-align: center;
+  background: white;
+  color:#997840;
+}
+.bbb i:hover {
+  opacity: 1;
+  transition: all 1s ease-in-out 0s;
+  margin-right: 0;
+}
+.fff i:hover {
+  opacity: 1;
+  transition: all 1s ease-in-out 0s;
+  margin: -8% 55%!important;
+}
+.home-part-10 h3 {
+  font-size: 20px;
+  font-family: Open Sans;
+  font-weight: 100;
+}
+.home-part-10 h2 {
+  font-size: 30px;
+  margin-top: 0%;
+  margin-bottom: -2%;
+}
+
+
+.home-part-11 h3 {
+  font-size: 20px;
+  font-family: Open Sans;
+  font-weight: 100;
+}
+.home-part-11 h2 {
+  font-size: 30px;
+  margin-top: 0%;
+  margin-bottom: -2%;
+}
+.home-part-11 {
+  background: #F2F2F2;
+  color:#997840;
+}
+.fff h4 {
+  border: 2px solid #997840;
+  font-size: 18px;
+  margin-top: 8% !important;
+  padding: 1.5%;
+  text-align: left;
+  width: 21%;
+  margin-left: 38%;
+}
+.fff h4:hover {
+  border: 2px solid #997840;
+  font-size: 18px;
+  margin-top: 8% !important;
+  padding: 1.5%;
+  text-align: left;
+  width: 21%;
+  margin-left: 38%;
+}
+.fff i {
+  float: left;
+  margin: -7.5% 51% !important;
+  opacity: 0;
+  position: unset;
+}
+.fff {
+  margin-top: 10%;
+  text-align: center;
+}
+.img-responsive.oscitas-res-image {
+  float: left;
+  margin-left: 6%;
+  margin-top: 6%;
+}
+#footer {
+  background: #161616 none repeat scroll 0 0;
+  clear: both;
+  max-width: 100%;
+  padding: 0;
+}
+.colophon-widget.widget-wrapper {
+  width: 23%;
+  float: left;
+  margin-left: 2%;
+  border: none;
+}
+.widget-title > h3 {
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.info > li {
+  list-style: none;
+  color: #bfbfbf;
+  font-size: 11px;
+  line-height: 1.75;
+}
+.bus {
+  color: #bfbfbf;
+  font-size: 11px;
+  line-height: 1.75;
+}
+.footer {
+  background: #161616 url("http://localhost/vicky/wp-content/uploads/2015/11/footer-line.png") repeat-x scroll left top;
+  color: #898989;
+}
+.copyright {
+  text-align: left;
+  margin: 0 3%;
+  font-size: 14px;
+}
+.powered {
+  display: none;
+}
+#footer a {
+  color: #7a7a7a;
+  font-weight: 400;
+}
+.lll {
+  margin: 0 -3%;
+}
+.wpcf7-form input {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  border-color: -moz-use-text-color -moz-use-text-color #eee;
+  border-image: none;
+  border-style: none none solid;
+  border-width: medium medium 1px;
+  box-shadow: none;
+  float: left;
+  height: 50px;
+  margin: 1%;
+  width: 22%;
+  color: #eee;
+}
+.wpcf7-form-control.wpcf7-submit {
+  border: 2px solid #eee;
+  text-shadow: none;
+  width: 15%;
+}
+.home-part-12 {
+  background: white;
+}
+.home-part-12 h3 {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 100;
+  color: #997840;
+  text-align: center;
+}
+.home-part-12 h2 {
+  font-size: 30px;
+  margin-top: 0%;
+  margin-bottom: -2%;
+  color: #997840;
+  text-align: center;
+}
+.home-part-12 img {
+  text-align: center;
+}
+.uuu {
+  float: right;
+  margin: 1% 42%;
+}
+.tslider .cbp-qtcontent img {
+  margin: 1% 44%;
+  border: 2px solid #eee;
+  padding: 0.3%;
+}
+blockquote {
+  background: none;
+  border: none;
+ float: left; 
+}
+.post-edit {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*The last 29 days of the month are the hardest."- Nikola Tesla*/

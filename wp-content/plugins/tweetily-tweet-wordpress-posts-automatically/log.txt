@@ -1,0 +1,100 @@
+  1446624517 In function get_request_tokenThe last tweet in : November 4, 2015, 8:08 am
+  1446624517 ..params are Array
+(
+    [oauth_consumer_key] => x1f7w1y3gu8WFMgWramMQ
+    [oauth_callback] => http://localhost/vicky/wp-admin/admin.php?page=Tweetily&amp;TOP_oauth=1
+    [oauth_signature_method] => HMAC-SHA1
+    [oauth_timestamp] => 1446624517
+    [oauth_nonce] => ad27a5c64fffdcf949782bf35d1ca245
+    [oauth_version] => 1.0
+)
+The last tweet in : November 4, 2015, 8:08 am
+  1446624517 Signature base string is: POST&https%3A%2F%2Fapi.twitter.com%2Foauth%2Frequest_token&oauth_callback%3Dhttp%253A%252F%252Flocalhost%252Fvicky%252Fwp-admin%252Fadmin.php%253Fpage%253DTweetily%2526amp%253BTOP_oauth%253D1%26oauth_consumer_key%3Dx1f7w1y3gu8WFMgWramMQ%26oauth_nonce%3Dad27a5c64fffdcf949782bf35d1ca245%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1446624517%26oauth_version%3D1.0The last tweet in : November 4, 2015, 8:08 am
+  1446624517 Doing POST request, OAUTH header is OAuth oauth_consumer_key="x1f7w1y3gu8WFMgWramMQ", oauth_callback="http%3A%2F%2Flocalhost%2Fvicky%2Fwp-admin%2Fadmin.php%3Fpage%3DTweetily%26amp%3BTOP_oauth%3D1", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1446624517", oauth_nonce="ad27a5c64fffdcf949782bf35d1ca245", oauth_version="1.0", oauth_signature="O35p9XPB0iJyCobxgcUOIODOD%2Fg%3D"The last tweet in : November 4, 2015, 8:08 am
+  1446624517 ..using CURL transportThe last tweet in : November 4, 2015, 8:08 am
+  1446624517 ..POST parameters are Array
+(
+)
+The last tweet in : November 4, 2015, 8:08 am
+  1446624517 ..CURLOPT_FOLLOWLOCATION is ONThe last tweet in : November 4, 2015, 8:08 am
+  1446624517 ..CURL didn't return any contentsThe last tweet in : November 4, 2015, 8:08 am
+  1446624601 In function get_request_tokenThe last tweet in : November 4, 2015, 8:10 am
+  1446624601 ..params are Array
+(
+    [oauth_consumer_key] => x1f7w1y3gu8WFMgWramMQ
+    [oauth_callback] => http://localhost/vicky/wp-admin/admin.php?page=Tweetily&amp;TOP_oauth=1
+    [oauth_signature_method] => HMAC-SHA1
+    [oauth_timestamp] => 1446624601
+    [oauth_nonce] => f46e1a89b881683ae3c572a849cb462b
+    [oauth_version] => 1.0
+)
+The last tweet in : November 4, 2015, 8:10 am
+  1446624601 Signature base string is: POST&https%3A%2F%2Fapi.twitter.com%2Foauth%2Frequest_token&oauth_callback%3Dhttp%253A%252F%252Flocalhost%252Fvicky%252Fwp-admin%252Fadmin.php%253Fpage%253DTweetily%2526amp%253BTOP_oauth%253D1%26oauth_consumer_key%3Dx1f7w1y3gu8WFMgWramMQ%26oauth_nonce%3Df46e1a89b881683ae3c572a849cb462b%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1446624601%26oauth_version%3D1.0The last tweet in : November 4, 2015, 8:10 am
+  1446624601 Doing POST request, OAUTH header is OAuth oauth_consumer_key="x1f7w1y3gu8WFMgWramMQ", oauth_callback="http%3A%2F%2Flocalhost%2Fvicky%2Fwp-admin%2Fadmin.php%3Fpage%3DTweetily%26amp%3BTOP_oauth%3D1", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1446624601", oauth_nonce="f46e1a89b881683ae3c572a849cb462b", oauth_version="1.0", oauth_signature="chYEvu%2FMW137uYhjjI1jyoDQ440%3D"The last tweet in : November 4, 2015, 8:10 am
+  1446624601 ..using CURL transportThe last tweet in : November 4, 2015, 8:10 am
+  1446624601 ..POST parameters are Array
+(
+)
+The last tweet in : November 4, 2015, 8:10 am
+  1446624601 ..CURLOPT_FOLLOWLOCATION is ONThe last tweet in : November 4, 2015, 8:10 am
+  1446624601 ..CURL didn't return any contentsThe last tweet in : November 4, 2015, 8:10 am
+  1446624789 In function get_request_tokenThe last tweet in : November 4, 2015, 8:13 am
+  1446624789 ..params are Array
+(
+    [oauth_consumer_key] => x1f7w1y3gu8WFMgWramMQ
+    [oauth_callback] => http://localhost/vicky/wp-admin/admin.php?page=Tweetily&amp;TOP_oauth=1
+    [oauth_signature_method] => HMAC-SHA1
+    [oauth_timestamp] => 1446624789
+    [oauth_nonce] => 95f900474cb19d0a4b293a2da63b16f6
+    [oauth_version] => 1.0
+)
+The last tweet in : November 4, 2015, 8:13 am
+  1446624789 Signature base string is: POST&https%3A%2F%2Fapi.twitter.com%2Foauth%2Frequest_token&oauth_callback%3Dhttp%253A%252F%252Flocalhost%252Fvicky%252Fwp-admin%252Fadmin.php%253Fpage%253DTweetily%2526amp%253BTOP_oauth%253D1%26oauth_consumer_key%3Dx1f7w1y3gu8WFMgWramMQ%26oauth_nonce%3D95f900474cb19d0a4b293a2da63b16f6%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1446624789%26oauth_version%3D1.0The last tweet in : November 4, 2015, 8:13 am
+  1446624789 Doing POST request, OAUTH header is OAuth oauth_consumer_key="x1f7w1y3gu8WFMgWramMQ", oauth_callback="http%3A%2F%2Flocalhost%2Fvicky%2Fwp-admin%2Fadmin.php%3Fpage%3DTweetily%26amp%3BTOP_oauth%3D1", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1446624789", oauth_nonce="95f900474cb19d0a4b293a2da63b16f6", oauth_version="1.0", oauth_signature="gR%2FCn6R2YnKWjyPddJuieuxOvEg%3D"The last tweet in : November 4, 2015, 8:13 am
+  1446624789 ..using CURL transportThe last tweet in : November 4, 2015, 8:13 am
+  1446624789 ..POST parameters are Array
+(
+)
+The last tweet in : November 4, 2015, 8:13 am
+  1446624789 ..CURLOPT_FOLLOWLOCATION is ONThe last tweet in : November 4, 2015, 8:13 am
+  1446624789 ..CURL didn't return any contentsThe last tweet in : November 4, 2015, 8:13 am
+  1446624846 In function get_request_tokenThe last tweet in : November 4, 2015, 8:14 am
+  1446624846 ..params are Array
+(
+    [oauth_consumer_key] => x1f7w1y3gu8WFMgWramMQ
+    [oauth_callback] => http://localhost/vicky/wp-admin/admin.php?page=Tweetily&amp;TOP_oauth=1
+    [oauth_signature_method] => HMAC-SHA1
+    [oauth_timestamp] => 1446624846
+    [oauth_nonce] => 40a6478fc92f7f2fe3e1785e21b135e7
+    [oauth_version] => 1.0
+)
+The last tweet in : November 4, 2015, 8:14 am
+  1446624846 Signature base string is: POST&https%3A%2F%2Fapi.twitter.com%2Foauth%2Frequest_token&oauth_callback%3Dhttp%253A%252F%252Flocalhost%252Fvicky%252Fwp-admin%252Fadmin.php%253Fpage%253DTweetily%2526amp%253BTOP_oauth%253D1%26oauth_consumer_key%3Dx1f7w1y3gu8WFMgWramMQ%26oauth_nonce%3D40a6478fc92f7f2fe3e1785e21b135e7%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1446624846%26oauth_version%3D1.0The last tweet in : November 4, 2015, 8:14 am
+  1446624846 Doing POST request, OAUTH header is OAuth oauth_consumer_key="x1f7w1y3gu8WFMgWramMQ", oauth_callback="http%3A%2F%2Flocalhost%2Fvicky%2Fwp-admin%2Fadmin.php%3Fpage%3DTweetily%26amp%3BTOP_oauth%3D1", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1446624846", oauth_nonce="40a6478fc92f7f2fe3e1785e21b135e7", oauth_version="1.0", oauth_signature="W3rmYdH6ZfYNoK5BE%2F%2FA%2BaDGfuA%3D"The last tweet in : November 4, 2015, 8:14 am
+  1446624846 ..using CURL transportThe last tweet in : November 4, 2015, 8:14 am
+  1446624846 ..POST parameters are Array
+(
+)
+The last tweet in : November 4, 2015, 8:14 am
+  1446624846 ..CURLOPT_FOLLOWLOCATION is ONThe last tweet in : November 4, 2015, 8:14 am
+  1446624846 ..CURL didn't return any contentsThe last tweet in : November 4, 2015, 8:14 am
+  1446624851 In function get_request_tokenThe last tweet in : November 4, 2015, 8:14 am
+  1446624851 ..params are Array
+(
+    [oauth_consumer_key] => x1f7w1y3gu8WFMgWramMQ
+    [oauth_callback] => http://localhost/vicky/wp-admin/admin.php?page=Tweetily&amp;TOP_oauth=1
+    [oauth_signature_method] => HMAC-SHA1
+    [oauth_timestamp] => 1446624851
+    [oauth_nonce] => d2fbc1f45c9248e83f44ad075984757f
+    [oauth_version] => 1.0
+)
+The last tweet in : November 4, 2015, 8:14 am
+  1446624851 Signature base string is: POST&https%3A%2F%2Fapi.twitter.com%2Foauth%2Frequest_token&oauth_callback%3Dhttp%253A%252F%252Flocalhost%252Fvicky%252Fwp-admin%252Fadmin.php%253Fpage%253DTweetily%2526amp%253BTOP_oauth%253D1%26oauth_consumer_key%3Dx1f7w1y3gu8WFMgWramMQ%26oauth_nonce%3Dd2fbc1f45c9248e83f44ad075984757f%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1446624851%26oauth_version%3D1.0The last tweet in : November 4, 2015, 8:14 am
+  1446624851 Doing POST request, OAUTH header is OAuth oauth_consumer_key="x1f7w1y3gu8WFMgWramMQ", oauth_callback="http%3A%2F%2Flocalhost%2Fvicky%2Fwp-admin%2Fadmin.php%3Fpage%3DTweetily%26amp%3BTOP_oauth%3D1", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1446624851", oauth_nonce="d2fbc1f45c9248e83f44ad075984757f", oauth_version="1.0", oauth_signature="F8IKCD7iKnpxpzlSWW8elqkeZUE%3D"The last tweet in : November 4, 2015, 8:14 am
+  1446624851 ..using CURL transportThe last tweet in : November 4, 2015, 8:14 am
+  1446624851 ..POST parameters are Array
+(
+)
+The last tweet in : November 4, 2015, 8:14 am
+  1446624851 ..CURLOPT_FOLLOWLOCATION is ONThe last tweet in : November 4, 2015, 8:14 am
+  1446624851 ..CURL didn't return any contentsThe last tweet in : November 4, 2015, 8:14 am
